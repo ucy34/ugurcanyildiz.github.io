@@ -1,0 +1,6 @@
+title: "Uğurcan Yıldız Academic CV"
+email: "ugurcanyildiz34@gmail.com"
+description: "Personal academic CV of Uğurcan Yıldız"
+baseurl: "" # If using GitHub Pages at root
+url: "https://ugurcanyildiz.github.io" # Change to your GitHub Pages URL
+theme: minimal
